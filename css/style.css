@@ -1,0 +1,19 @@
+.bg-color-header{
+    background-color: #001F3F;
+}
+
+
+
+.bg-color{
+    background-color: #3A6D8C;
+}
+body{
+    background-image: url("https://www.faatra.org.ar/static/images/tallerHeader.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.bg-footer{
+    background-color: #31363F;
+}
